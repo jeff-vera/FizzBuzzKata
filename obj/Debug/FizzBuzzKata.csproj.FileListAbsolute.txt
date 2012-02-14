@@ -1,9 +1,0 @@
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\bin\Debug\FizzBuzzKata.dll
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\bin\Debug\nunit.framework.dll
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\bin\Debug\nunit.mocks.dll
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\bin\Debug\pnunit.framework.dll
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\bin\Debug\nunit.framework.xml
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\obj\Debug\ResolveAssemblyReference.cache
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\obj\Debug\FizzBuzzKata.dll
-c:\users\jvera\documents\visual studio 2010\Projects\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
